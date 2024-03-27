@@ -1,0 +1,9 @@
+.svg {
+    fill: var(--svgColor);
+    margin-top: 50px;
+}
+
+.svg2 {
+    color: #000000;
+    margin-bottom: -67px;
+}

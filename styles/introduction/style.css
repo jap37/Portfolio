@@ -1,0 +1,31 @@
+.introduction .heading {
+    text-transform: capitalize;
+}
+
+.introduction .heading {
+    font-size: 4.77rem;
+    line-height: 1;
+    background-image: var(--introHeading);
+    background-clip: text;
+    color: var(--introColor);
+    margin-bottom: -83px;
+    margin-top: -70px;
+}
+
+.introduction .subheading {
+    text-transform: capitalize;
+}
+
+.introduction .subheading {
+    font-size: 2.15rem;
+    line-height: 1;
+    background-image: var(--introSubHeading);
+    background-clip: text;
+    color: var(--introColor);
+}
+
+.introduction .paragraph {
+    color: var(--color);
+    letter-spacing: 2px;
+    margin-top: -20px;
+}

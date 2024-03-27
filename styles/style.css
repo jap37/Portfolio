@@ -1,0 +1,42 @@
+:root {
+    --background: #cffafe;
+    --color: #000000;
+    --homeColor: #000000;
+    --resumeColor: #000000;
+    --introHeading: #000000;
+    --introSubHeading: #000000;
+    --introColor: #000000;
+    --technologyColor: #ffffff;
+    --svgColor: #ffffff;
+}
+
+.dark-theme {
+    --background: #111827;
+    --color: #ffffff;
+    --homeColor: #99f6e4;
+    --resumeColor: #2dd4a7;
+    --introHeading: linear-gradient(to right, #63d1c5, #4578f4, #7152ef);
+    --introSubHeading: linear-gradient(to right, #63d1c5, #4578f4, #7152ef);
+    --introColor: transparent;
+    --technologyColor: #000000;
+    --svgColor: #000000;
+}
+
+
+html {
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: var(--background);
+    letter-spacing: 1px;
+    max-width: 100vw;
+}
+
+
+.container {
+    padding: 0 420px;
+}

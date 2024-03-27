@@ -1,0 +1,17 @@
+@media (max-width: 1024px) {
+    .projectWrapper {
+        padding: 0 60px;
+    }
+}
+
+@media (max-width: 768px) {
+    .projectWrapper {
+        padding: 0 30px;
+    }
+}
+
+@media (max-width: 600px) {
+    .projectWrapper {
+        padding: 0 10px;
+    }
+}

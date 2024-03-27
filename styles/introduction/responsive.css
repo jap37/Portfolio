@@ -1,0 +1,149 @@
+@media (max-width: 1024px) {
+    .introduction {
+        padding: 0 60px;
+    }
+
+    .introduction .heading {
+        font-size: 89px;
+        line-height: 1;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 912px) {
+    .introduction .heading {
+        font-size: 76px;
+        line-height: 1;
+        margin-top: 10px;
+        margin-bottom: -60px;
+    }
+
+}
+
+@media (max-width: 854px) {
+    .introduction .heading {
+        font-size: 69px;
+        line-height: 1;
+        margin-top: 10px;
+
+    }
+
+}
+
+@media (max-width: 824px) {
+    .introduction .heading {
+        font-size: 63px;
+        line-height: 1;
+        margin-top: 10px;
+
+    }
+}
+
+@media (max-width: 768px) {
+    .introduction {
+        padding: 0 30px;
+    }
+
+    .introduction .heading {
+        font-size: 73px;
+        line-height: 1;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .introduction {
+        padding: 0 10px;
+    }
+
+    .introduction .heading {
+        font-size: 43px;
+        line-height: 1;
+        margin-top: 10px;
+        margin-bottom: -85px;
+    }
+
+    .introduction .subheading {
+        font-size: 23px;
+        line-height: 1;
+        padding-top: 33px;
+    }
+
+    .introduction .paragraph {
+        letter-spacing: 2px;
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 542px) {
+    .introduction .heading {
+        font-size: 55px;
+        line-height: 1;
+        margin-top: 10px;
+        margin-bottom: -100px;
+    }
+
+}
+
+@media (max-width: 432px) {
+    .introduction .heading {
+        font-size: 43px;
+        line-height: 1;
+        margin-top: 10px;
+        margin-bottom: -100px;
+    }
+
+}
+
+@media (max-width: 416px) {
+    .introduction .heading {
+        font-size: 41px;
+    }
+}
+
+@media (max-width: 392px) {
+    .introduction .heading {
+        font-size: 38px;
+    }
+
+    .introduction .subheading {
+        font-size: 19px;
+    }
+}
+
+@media (max-width: 376px) {
+    .introduction .heading {
+        font-size: 37px;
+    }
+
+    .introduction .subheading {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 362px) {
+    .introduction .heading {
+        font-size: 35px;
+        margin-bottom: -83px;
+    }
+
+    .introduction .subheading {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 282px) {
+
+    .introduction .heading {
+        font-size: 25px;
+        margin-bottom: -70px;
+    }
+
+    .introduction .subheading {
+        font-size: 13px;
+    }
+
+    .introduction .paragraph {
+        font-size: 13px;
+    }
+}

@@ -1,0 +1,193 @@
+@media (max-width: 1024px) {
+    .technologyWrapper {
+        padding: 25px 60px;
+    }
+
+    .technology .mainheading {
+        font-size: 41px;
+    }
+}
+
+@media (max-width: 912px) {
+
+    .technology .mainheading {
+        font-size: 34px;
+    }
+}
+
+@media (max-width: 854px) {
+
+    .technology .mainheading {
+        font-size: 29px;
+    }
+
+}
+
+@media (max-width: 824px) {
+    .technology .mainheading {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 768px) {
+    .technologyWrapper {
+        padding: 25px 30px;
+    }
+
+    .technology .mainheading {
+        font-size: 33px;
+    }
+}
+
+@media (max-width: 600px) {
+    .technologyWrapper {
+        padding: 25px 10px;
+    }
+
+    .technology .mainheading {
+        text-align: left;
+        font-size: 27px;
+    }
+
+    .firstMainDiv,
+    .secondMainDiv {
+        flex-direction: column;
+    }
+
+    /* .firstMainDiv .firstDiv,
+    .firstMainDiv .secondDiv,
+    .secondMainDiv .firstDiv,
+    .secondMainDiv .secondDiv {
+        flex-basis: 100%;
+    } */
+
+    .firstMainDiv .secondDiv,
+    .secondMainDiv .firstDiv,
+    .secondMainDiv .secondDiv {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .firstMainDiv .firstDiv .innerFirstDiv,
+    .firstMainDiv .secondDiv .innerSecondDiv,
+    .secondMainDiv .firstDiv .innerFirstDiv,
+    .secondMainDiv .secondDiv .innerSecondDiv {
+        height: 160px;
+        width: 387px;
+    }
+
+}
+
+@media (max-width: 542px) {
+
+
+    .technology .mainheading {
+        font-size: 25px;
+    }
+
+    .firstMainDiv .firstDiv .innerFirstDiv,
+    .firstMainDiv .secondDiv .innerSecondDiv,
+    .secondMainDiv .firstDiv .innerFirstDiv,
+    .secondMainDiv .secondDiv .innerSecondDiv {
+        height: 160px;
+        width: 495px;
+    }
+
+}
+
+@media (max-width: 432px) {
+
+    .technology .mainheading {
+        font-size: 32px;
+    }
+
+    .firstMainDiv .firstDiv .innerFirstDiv,
+    .firstMainDiv .secondDiv .innerSecondDiv,
+    .secondMainDiv .firstDiv .innerFirstDiv,
+    .secondMainDiv .secondDiv .innerSecondDiv {
+        height: 160px;
+        width: 387px;
+    }
+}
+
+@media (max-width: 416px) {
+
+    .firstMainDiv .firstDiv .innerFirstDiv,
+    .firstMainDiv .secondDiv .innerSecondDiv,
+    .secondMainDiv .firstDiv .innerFirstDiv,
+    .secondMainDiv .secondDiv .innerSecondDiv {
+        height: 160px;
+        width: 371px;
+    }
+}
+
+@media (max-width: 392px) {
+
+    .firstMainDiv .firstDiv .innerFirstDiv,
+    .firstMainDiv .secondDiv .innerSecondDiv,
+    .secondMainDiv .firstDiv .innerFirstDiv,
+    .secondMainDiv .secondDiv .innerSecondDiv {
+        height: 160px;
+        width: 345px;
+    }
+}
+
+@media (max-width: 376px) {
+
+    .technology .mainheading {
+        font-size: 23px;
+    }
+
+    .firstMainDiv .firstDiv .innerFirstDiv,
+    .firstMainDiv .secondDiv .innerSecondDiv,
+    .secondMainDiv .firstDiv .innerFirstDiv,
+    .secondMainDiv .secondDiv .innerSecondDiv {
+        height: 160px;
+        width: 333px;
+    }
+}
+
+@media (max-width: 362px) {
+
+    .technology .mainheading {
+        font-size: 23px;
+    }
+
+    .firstMainDiv .firstDiv .innerFirstDiv,
+    .firstMainDiv .secondDiv .innerSecondDiv,
+    .secondMainDiv .firstDiv .innerFirstDiv,
+    .secondMainDiv .secondDiv .innerSecondDiv {
+        height: 160px;
+        width: 323px;
+    }
+}
+
+@media (max-width: 282px) {
+
+    .technology .mainheading {
+        font-size: 18px;
+    }
+
+    .firstMainDiv .firstDiv .innerFirstDiv,
+    .firstMainDiv .secondDiv .innerSecondDiv,
+    .secondMainDiv .firstDiv .innerFirstDiv,
+    .secondMainDiv .secondDiv .innerSecondDiv {
+        height: 160px;
+        width: 237px;
+    }
+
+    .firstMainDiv .firstDiv .innerFirstDiv ul li,
+    .firstMainDiv .secondDiv .innerSecondDiv ul li,
+    .secondMainDiv .firstDiv .innerFirstDiv ul li,
+    .secondMainDiv .secondDiv .innerSecondDiv ul li {
+        font-size: 15px;
+    }
+
+    .firstMainDiv .firstDiv .innerFirstDiv h3,
+    .firstMainDiv .secondDiv .innerSecondDiv h3,
+    .secondMainDiv .firstDiv .innerFirstDiv h3,
+    .secondMainDiv .secondDiv .innerSecondDiv h3 {
+        font-size: 20px;
+
+    }
+}

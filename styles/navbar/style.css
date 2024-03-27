@@ -1,0 +1,47 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.home,
+.resume {
+    margin-right: 20px;
+}
+
+.home {
+    cursor: pointer;
+    color: var(--homeColor);
+}
+
+.home a {
+    color: var(--homeColor);
+    text-decoration: none;
+}
+
+.resume {
+    cursor: pointer;
+    flex-grow: 1;
+    color: var(--resumeColor);
+}
+
+.resume a {
+    color: var(--resumeColor);
+    text-decoration: none;
+}
+
+.icon {
+    cursor: pointer;
+    color: var(--color);
+}
+
+.home:hover,
+.icon:hover {
+    transform: scale(1.03);
+}
+
+.resume h3:hover {
+    transform: scale(1.03);
+}

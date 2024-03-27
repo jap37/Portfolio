@@ -1,0 +1,39 @@
+.projectWrapper {
+    color: var(--color);
+}
+
+.projectWrapper .projectMainHeading {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 51px;
+}
+
+.projectWrapper .projectMainHeading h3 {
+    font-size: 35px;
+}
+
+.projectss .projectFirst h3,
+.projectss .projectSecond h3 {
+    font-size: 23px;
+}
+
+.projectss .projectFirst h2,
+.projectss .projectSecond h2 {
+    margin-top: -17px;
+    font-size: 17px;
+    color: #9599a0;
+}
+
+.projectss .projectFirst ul li,
+.projectss .projectSecond ul li {
+    color: #9599a0;
+    margin-bottom: 9px;
+    margin-left: -5px;
+    list-style-type: none;
+}
+
+.projectss .projectFirst ul li i,
+.projectss .projectSecond ul li i {
+    margin-left: -13px;
+    color: #63d1c5;
+}
